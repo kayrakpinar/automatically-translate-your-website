@@ -1,5 +1,5 @@
 # automatically-translate-your-website
-
+![1.png](https://raw.githubusercontent.com/kayrakpinar/automatically-translate-your-website/main/unnecessary%20files/1.png)
 ## [EN]
 Translate your website to client's language automatically and without translate bar. (Using web browser language)
 
