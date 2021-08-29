@@ -15,7 +15,7 @@ Translate your website to client's language automatically and without translate 
 ## [TR]
 Web sitenizi otomatik olarak ve translate bar olmadan client'ın diline çevirin. (Web browser'ın dilini kullanır.)
 
-### Usage
+### Kullanım
 * translate.js dosyasındaki pageLanguage değerini websitenizin dil koduyla değiştirin. [Dil Kodu Listesi](https://cloud.google.com/translate/docs/languages)
 * js ve css dosyalarını ve id değeri "google_translate_element" olan bir div etiketini istediğiniz web sayfalarına ekleyin". Bunun gibi: 
 ```HTML 
